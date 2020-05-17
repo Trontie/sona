@@ -1,4 +1,4 @@
-# Sona Automatic Windows Beep() generator for C
+# Sona-Automatic Windows Beep() generator for C
 <hr>
  Windows.h Beep() Helper 
 
