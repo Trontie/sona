@@ -1,10 +1,9 @@
 # Sona-Automatic Windows Beep() generator for C
 <hr>
- Windows.h Beep() Helper 
 
 Simple windows Beep() creator:
 
-Write your notes ( list available here ) or use the commands (list available here) to clear, play, export your music in a working, standalone, .c file.
+Write your song notes ( list available here ) and use the commands ( list available here ) to clear, play, export your music in a working, standalone, .c file.
 
 <hr>
 
