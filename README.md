@@ -9,7 +9,7 @@ Write your notes ( list available here ) or use the commands (list avaiable here
 <hr>
 
 <b> Twinkle Twinkle Little Star </b><br>
-Insert the following data when asked to play a simple twinkle twinkle little star
+Insert the following data, when asked, to play a simple twinkle twinkle little star
 <code>
   sol4,1
   sol4,2
