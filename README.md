@@ -3,7 +3,7 @@
 
 Simple windows Beep() creator:
 
-Write your song notes ( list available here ) and use the commands ( list available here ) to clear, play, export your music in a working, standalone, .c file.
+Write your song notes ( list available here ) and use  commands ( list available here ) to clear, play, export your music in a working, standalone, .c file.
 
 <hr>
 
