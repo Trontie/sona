@@ -3,8 +3,13 @@
 
 Simple windows Beep() creator:
 
-Write your song  using [notes](../master/Note) and use  commands ( list available here ) to clear, play, export your music in a working, standalone, .c file.
+Write your song  using [notes](../master/Note) and use  commands to clear, play, export your music in a working, standalone, .c file.
 
+<hr>
+<b> Commands </b><br>
+`Play` plays the project<br>
+`Export` exports the project to a standalone .c file<br>
+`Clear` clears actual project<br>
 <hr>
 
 <b> Twinkle Twinkle Little Star </b><br>
