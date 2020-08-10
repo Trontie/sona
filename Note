@@ -1,12 +1,14 @@
 | European  | American |
-| ------------- | ------------- |
-| Do  | C  |
-| Re  | D  |
-| Mi  | E  |
-| Fa  | F |
-| Sol  | G  |
-| La  | A  |
-| Si  | B  |
+| --------  | -------- |
+| Do        | C        |
+| Re        | D        |
+| Mi        | E        |
+| Fa        | F        |
+| Sol       | G        |
+| La        | A        |
+| Si        | B        |
+
+Use _ instead of #
 
 #Note EU#
 DO2
