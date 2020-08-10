@@ -7,9 +7,10 @@ Write your song  using [notes](../master/Note) and use  commands to clear, play,
 
 <hr>
 <b> Commands </b><br>
-`Play` plays the project<br>
-`Export` exports the project to a standalone .c file<br>
-`Clear` clears actual project<br>
+<code>Play</code> plays the project<br>
+<code>Export</code> exports the project to a standalone .c file<br>
+<code>Clear</code> clears actual project<br>
+
 <hr>
 
 <b> Twinkle Twinkle Little Star </b><br>
