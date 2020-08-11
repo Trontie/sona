@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1589804130 source:c:\users\samue\desktop\università\laboratorio di informatica\sona\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<windows.h>
-
-1589902163 source:c:\users\samue\desktop\università\laboratorio di informatica\sona\resource.rc
-
